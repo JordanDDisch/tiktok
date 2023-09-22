@@ -1,0 +1,16 @@
+.digital-clock__wrapper {
+  display: flex;
+  flex-direction: row;
+  background: black;
+  padding: 15px 40px;
+}
+
+.digital-clock__box {
+  font-family: digital-clock-font;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
